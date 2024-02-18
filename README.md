@@ -50,6 +50,6 @@ javac *.java
 Run the main class.
 java Main
 Contact Information:
-For any inquiries or issues, please contact sambhajikshirsagar37607@gmail.com.
+For any inquiries or issues, please contact rahulbhosale3299@gmail.com
 
 Feel free to contribute to the project by submitting bug fixes, feature enhancements, or suggestions through pull requests. Thank you for using our Online Survey System!
